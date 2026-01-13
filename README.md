@@ -2,6 +2,17 @@
 让天依亲口说爱你！——基于GPT-SoVITS的一款模拟洛天依声线的语音生成模型
 
 
+
+本模型基于GPT-SoVITS-v2pro-20250604版本制作
+文件地点:项目上方“main”→“master”→“lty.7z”
+下载下来后解压即可
+使用方式：解压完成后出现一个WAV文件，一个CKPT文件，一个PTH文件
+将CKPT文件拖入"GPT-SoVITS-v2pro-20250604"文件夹中的"GPT_weights_v2ProPlus"文件夹（20250604是我所使用的版本，不保证在其他版本中能运行）
+将PTH文件拖入"GPT-SoVITS-v2pro-20250604"文件夹中的"SoVITS_weights_v2ProPlus"文件夹
+启动web_ui，在"1C-推理"中分别选中这两模型，开启TTS推理UI即可
+WAV文件为示例音频，文本为“我现在需要一个长达三秒的语音”
+
+
 使用协议（User Agreement）
 1. 性质声明
 本仓库发布的仅为个人兴趣训练成果，非商业产品。模型基于GPT-SoVITS开发。
