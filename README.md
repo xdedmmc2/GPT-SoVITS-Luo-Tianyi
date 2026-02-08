@@ -3,6 +3,10 @@
 
 
 
+示例演示视频https://www.bilibili.com/video/BV1jMkTBJETw/?spm_id_from=333.1387.homepage.video_card.click&vd_source=8e2d4500b6748374da24802a581f06c9
+导入教程视频https://www.bilibili.com/video/BV1fBr9BnExH/?spm_id_from=333.1387.homepage.video_card.click&vd_source=8e2d4500b6748374da24802a581f06c9
+
+
 
 本模型基于GPT-SoVITS-v2pro-20250604版本制作
 
